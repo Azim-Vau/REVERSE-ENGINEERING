@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 
-#Create & Recode By Dapunta & Rizal
+#Create & Recode By Dapunta & Rizal,izin recode bng:v
 #Lu Mau Recode, Mau Lu Apain Terserah Bro, Tapi Hargai Lah Karya Kami.
 #Gw Bikin Ni SC Sama Rizal Susah Payah, Ngerakit Sana Sini Banyak Error, Jgn Seenaknya Ganti Nama Author, Apalagi Ngalihin Botnya. Terima Kasih.
 
