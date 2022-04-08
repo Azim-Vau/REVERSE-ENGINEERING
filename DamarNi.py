@@ -4,7 +4,7 @@
 # [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
 # Embedded file name: <Mking>
 '''
-Dec By Mr. Error :(
+Dec By DamarNiBoss :(
 '''
 
 import requests, bs4, sys, os, random, time, re, json, uuid, calendar
